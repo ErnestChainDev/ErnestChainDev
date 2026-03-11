@@ -72,7 +72,8 @@
 
 <img src="./assets/neonline.gif" height="5px" width="100%"/>
 
-<a href="https://u8views.com/github/ErnestChainDev"><img src="https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg"></a>
+[![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
+
 <div align="center">
     <h2>
         <img src="./assets/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/>
