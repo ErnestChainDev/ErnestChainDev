@@ -73,7 +73,7 @@
 <img src="./assets/neonline.gif" height="5px" width="100%"/>
 
 [![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
-[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/blob/master/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
+[![Image of https://github.com/gayanvoice/my-profile-views-counter](https://github.com/gayanvoice/my-profile-views-counter/ErnestChainDev/ErnestChainDev/svg/profile/badge.svg)](https://github.com/gayanvoice/my-profile-views-counter)
 
 <div align="center">
     <h2>
