@@ -1,4 +1,5 @@
 <div align = "center">
+    [![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <img src="./assets/Futuristic-City-bannernamed.gif" align="middle" alt="Banner" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
