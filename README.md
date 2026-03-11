@@ -77,7 +77,7 @@
         <img src="./assets/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/>
     </h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chixshunter&theme=city_lights&hide_border=false"/>
+    <img src="https://streak-stats.demolab.com?user=ErnestChainDev&theme=midnight-purple&hide_border=true" alt="ErnestChainDev's GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="ErnestChainDev's GitHub Stats" />
 </div>
 
