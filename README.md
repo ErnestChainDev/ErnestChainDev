@@ -78,7 +78,7 @@
     </h2>
     <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chixshunter&theme=city_lights&hide_border=false"/>
-    <img src="[https://github-readme-stats.vercel.app/api?username=Chixshunter&theme=city_lights&hide_border=false&include_all_commits=false&count_private=false](https://github-readme-stats.vercel.app/api?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="ErnestChainDev's GitHub Stats" />
 </div>
 
 <div align="center">
