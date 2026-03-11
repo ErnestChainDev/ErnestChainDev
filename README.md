@@ -25,7 +25,7 @@
 
   Let’s connect and build something amazing together! 😄
 
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" />
+<a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
