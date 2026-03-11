@@ -27,6 +27,8 @@
 
 <a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
+https://studio.buymeacoffee.com/stream-alert/page/Chixshunter?user_key=3f1e96c7-aa38-43ee-9e11-27d8b56251be
+
 <img src="./assets/separatorline.gif" height="5px" width="100%"/>
 
 <div align="center">
