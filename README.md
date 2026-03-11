@@ -82,7 +82,7 @@
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestChainDev&theme=radical&langs_count=10&card_width=540&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="ErnestChainDev's GitHub Stats" />
     <img src="https://wakatime.com/share/@Chixshunter/c66db64a-c1c5-4eff-ab56-bae4f4bfff52.svg" width="540px"/>
 </div>
 
