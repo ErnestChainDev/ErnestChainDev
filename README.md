@@ -11,6 +11,8 @@
 </div>
 
 [![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=ErnestChainDev)
 <img src="./assets/neonline.gif" height="5px" width="100%"/>
 
 <img flex align="right" src="./assets/steamer.gif" width="300px" height="500px" alt="pogrammer boy">
