@@ -8,6 +8,7 @@
     <img src="./assets/animegirl.gif" width="80px" align="right"/>
     <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Computer+Science+student;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Intro me" width="80%" align="middle" />
     <img src="./assets/animegirl.gif" width="80px" align="left"/>
+    <img src="./assets/neonline.gif" height="5px" width="100%"/>
 </div>
 
 ![Profile Views](https://github-profile-server-production.up.railway.app/api/badge/ErnestChainDev)
