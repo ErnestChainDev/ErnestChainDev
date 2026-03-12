@@ -7,10 +7,10 @@
 <div align="center">
     <img src="./assets/animegirl.gif" width="80px" align="right"/>
     <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Computer+Science+student;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Intro me" width="80%" align="middle" />
-    [![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
     <img src="./assets/animegirl.gif" width="80px" align="left"/>
 </div>
 
+[![Ernest Windel Dreo profile views](https://u8views.com/api/v1/github/profiles/198012671/views/day-week-month-total-count.svg)](https://u8views.com/github/ErnestChainDev)
 <img src="./assets/neonline.gif" height="5px" width="100%"/>
 
 <img flex align="right" src="./assets/steamer.gif" width="300px" height="500px" alt="pogrammer boy">
