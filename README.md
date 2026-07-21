@@ -1,94 +1,184 @@
 <div align = "center">
-    <img src="./assets/neonline.gif" height="5px" width="100%"/>
-    <img src="./assets/Futuristic-City-bannernamed.gif" align="middle" alt="Banner" width="100%"/>
-    <img src="./assets/neonline.gif" height="5px" width="100%"/>
-</div><br>
-
-<div align="center">
-    <img src="./assets/animegirl.gif" width="80px" align="right"/>
-    <img src="https://readme-typing-svg.demolab.com?font=Chewy&size=40&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Computer+Science+student;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Intro me" width="80%" align="middle" />
-    <img src="./assets/animegirl.gif" width="80px" align="left"/>
-    <img src="./assets/neonline.gif" height="5px" width="100%"/>
+    <img src="./assets/neonline.gif" height="3px" width="100%"/>
+    <img src="./assets/Futuristic-City-bannernamed.webp" align="middle" alt="Banner" width="100%"/>
+    <img src="./assets/neonline.gif" height="3px" width="100%"/>
 </div>
 
-![Profile Views](https://github-profile-server-production.up.railway.app/api/badge/ErnestChainDev?theme=neon-gradient)
-
-<img flex align="right" src="./assets/steamer.gif" width="300px" height="500px" alt="pogrammer boy">
-
- 👋 Hi, I’m Ernest!  <br><br>
- 🎓 I’m a passionate Computer Science student with a keen interest in web development, algorithms, and problem-solving. I love exploring new technologies and building projects that challenge me to grow as a developer.<br><br>
-   🔭 I’m currently working on Web development and Mobile apps.  <br><br>
-   🌱 I’m learning Python, Java, Javascript, Html, and Css.  <br><br>
-   👯 I’m looking to collaborate on open-source projects or innovative tech solutions.  <br><br> 
-   🤔 I’m always open to discussing new ideas or solving interesting problems. <br><br>
-   🌟 When I'm not coding, you can find me playing moba games, watching movies or crypto trading.
-
-  Let’s connect and build something amazing together! 😄
-
-<a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-
-<img src="./assets/separatorline.gif" height="5px" width="100%"/>
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=ErnestChainDev&color=blueviolet" alt="Profile Views"/>
+<img src="https://wakatime.com/badge/user/3ce9b9a2-da32-434d-893f-b1f2749e1046/project/e4165a99-a720-4041-b52d-9668e39e3e05.svg" alt="WakaTime">
+<img src="https://ghstats.dev/api/mini?username=ernestchaindev&theme=catppuccin" alt="GitHub Mini Badge" />
+<img src="https://ghstats.dev/api/mini?username=ernestchaindev&theme=catppuccin&metric=commits" alt="GitHub Mini Badge" />
+<img src="https://ghstats.dev/api/mini?username=ernestchaindev&theme=catppuccin&metric=hours" alt="GitHub Mini Badge" />
+<img src="https://ghstats.dev/api/mini?username=ernestchaindev&theme=catppuccin&metric=contributions" alt="GitHub Mini Badge" />
+<hr>
+</div>
 
 <div align="center">
-    <h3> 
+  <a href="https://x.com/ErnestChainDev">
+    <img src="https://img.shields.io/badge/Follow-@ErnestChainDev-black?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://github.com/ErnestChainDev">
+    <img src="https://img.shields.io/badge/GitHub-ErnestChainDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ernestwindeldreo">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://facebook.com/mstr.dreo">
+    <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</div>
+<hr>
+<br>
+
+<div align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=8a2be2&center=true&vCenter=true&width=940&lines=Welcome+to+My+GitHub+Profile!;I'm+a+Passionate+Computer+Science+student;Exploring+the+World+of+Code;Let's+Build+Something+Awesome!" alt="Intro me" width="80%" align="middle" />
+</div>
+<br>
+
+<div>
+<img src="./assets/neonline.gif" height="3px" width="100%"/>
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ehaoqyskwy3gpnowyboeehjw5y&redirect=true">
+  <img
+    align="right"
+    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ehaoqyskwy3gpnowyboeehjw5y&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true"
+    width="340"
+    alt="Spotify Now Playing"
+  />
+</a>
+
+<div align ="left">
+
+<div>
+    <h3>
         <strong>
-            <img src="./assets/cat.gif" width="30px"/> 
-            <span style="color: #ff5733;">Languages</span>, 
-            <span style="color: #33ff57;">Frameworks</span>, and 
-            <span style="color: #5733ff;">Tools</span> that I tried! 
-            <img src="./assets/cat.gif" width="30px"/> 
+            <span style="color:#A66CFF;">👋 Hi, I'm Ernest!</span>
+        </strong>
+    </h3>
+</div>
+
+I'm a **Junior Full-Stack Software Developer** passionate about building modern web applications, AI-powered solutions, and scalable backend systems. I enjoy solving real-world problems through clean, efficient code while continuously learning new technologies and software engineering practices. I'm currently working with **React, Vite, TailwindCss, Python, FastAPI, MySQL, and Railway**, and I'm expanding my knowledge in **System Design, Microservices, Cloud Computing, DevOps, and Artificial Intelligence**. I'm always open to collaborating on innovative projects, contributing to open source, and connecting with fellow developers. Outside of coding, I enjoy exploring Web3 and AI, working on personal projects, watching movies, playing MOBA games, and crypto trading.
+
+<div>
+    <h3>
+        <strong>
+            <span style="color:#A66CFF;">Let's build something impactful together. 🚀</span>
+        </strong>
+    </h3>
+</div>
+</br></br></br></br></br>
+<a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=View Products&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=8a2be2&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" />
+</a>
+</div>
+
+<img src="./assets/neonline.gif" height="3px" width="100%"/>
+<img src="./assets/HeroX.webp" align="middle" alt="Banner" width="100%"/>
+<img src="./assets/neonline.gif" height="3px" width="100%"/>
+</div>
+
+
+<div align="center">
+    <h3>
+        <strong>
+            <img src="./assets/cat.gif" width="30px"/>
+            <span style="color:#FF6B6B;">Languages</span> |
+            <span style="color:#4ECDC4;">Frameworks</span> |
+            <span style="color:#45B7D1;">Databases</span> |
+            <span style="color:#96CEB4;">Tools</span> &
+            <span style="color:#A66CFF;">Technologies</span>
+            <img src="./assets/cat.gif" width="30px"/>
         </strong>
     </h3>
 </div>
 
 
 <div align="center">
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-        <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-        <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-        <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-        <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" />
-        <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34" />
-        <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-        <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />
-        <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" />
-        <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" />
-        <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black" />
-        <img src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" />
-        <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+  <br>
+
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+
+  <br>
+
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+
+  <br>
+
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
+
+  <br>
+
+  <!-- AI / Data Science -->
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+  <br>
+
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+
+  <br>
+
+  <!-- Deployment -->
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
+
 </div>
 
-<img src="./assets/neonline.gif" height="5px" width="100%"/>
+<img src="./assets/neonline.gif" height="3px" width="100%"/>
+
 
 <div align="center">
-    <h2>
-        <img src="./assets/cat.gif" width="30px"/>📊 GitHub Stats<img src="./assets/cat.gif" width="30px"/>
-    </h2>
-    <img src="https://github-profile-trophy.vercel.app/?username=Chixshunter&theme=apprentice&no-frame=false&no-bg=true&margin-w=4"/>
+    <h3>
+        <strong>
+            <img src="./assets/cat.gif" width="30px"/>
+            <span style="color:#A66CFF;">📊 GitHub Stats</span>
+            <img src="./assets/cat.gif" width="30px"/>
+        </strong>
+    </h3>
+</div>
+
+<div align="center">
     <img src="https://streak-stats.demolab.com?user=ErnestChainDev&theme=midnight-purple&hide_border=true" alt="ErnestChainDev's GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" alt="ErnestChainDev's GitHub Stats" />
+    <img src="https://ghstats.dev/api/langs?username=ErnestChainDev&theme=catppuccin&hide_title=true&layout=grid" alt="Top Languages" />
+    <img src="https://ghstats.dev/api/sparkline?username=ernestchaindev&theme=catppuccin&days=30&width=320&height=80" alt="Contribution Sparkline" />
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestChainDev&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" alt="ErnestChainDev's GitHub Stats" />
-</div>
-<div align="center">
-    <img src="https://wakatime.com/share/@Chixshunter101/744b8038-1588-4b4e-9c13-76c95f688a20.svg" width="540px"/>
+    <img src="https://wakatime.com/share/@Chixshunter101/d941f11a-78cc-44d4-b993-7fc485ce37ab.svg">
 </div>
 
 <div>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
-    <img src="./assets/Gamer-Room.gif" align="middle" alt="Gamerroom" width="100%"/>
+    <img src="./assets/Gamer-Room.webp" align="middle" alt="Gamerroom" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
 </div><br>
 
@@ -106,19 +196,19 @@
   <ul style="list-style: none; padding: 0; font-size: 20px; color: #ffffff;">
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <li>Solo Leveling</li>
-    <img src="./assets/download.gif" align="middle" alt="solo leveling" width="100%"/>
+    <img src="./assets/download.webp" align="middle" alt="solo leveling" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <li>One Piece</li>
-    <img src="./assets/luffy.gif" align="middle" alt="luffy" width="100%"/>
+    <img src="./assets/luffy.webp" align="middle" alt="luffy" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <li>Demon Slayer</li>
-    <img src="./assets/tanjiro.gif" align="middle" alt="tanjiro" width="100%"/>
+    <img src="./assets/tanjiro.webp" align="middle" alt="tanjiro" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <li>Jujutsu Kaisen</li>
-    <img src="./assets/fuga.gif" align="middle" alt="tanjiro" width="100%"/>
+    <img src="./assets/fuga.webp" align="middle" alt="tanjiro" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
     <li>Naruto</li>
-    <img src="./assets/naruto.gif" align="middle" alt="naruto" width="100%"/>
+    <img src="./assets/naruto.webp" align="middle" alt="naruto" width="100%"/>
     <img src="./assets/neonline.gif" height="5px" width="100%"/>
   </ul>
 </div>
