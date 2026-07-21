@@ -67,9 +67,7 @@ I'm a **Junior Full-Stack Software Developer** passionate about building modern 
         </strong>
     </h3>
 </div>
-</br></br></br></br></br>
-<a href="https://www.buymeacoffee.com/Chixshunter"><img src="https://img.buymeacoffee.com/button-api/?text=View Products&emoji=👨🏻‍💻&slug=Chixshunter&button_colour=8a2be2&font_colour=ffffff&font_family=Comic&outline_colour=ffffff&coffee_colour=FFDD00" />
-</a>
+<img src="./assets/animegirl.gif" width="80px" height="1500px"/>
 </div>
 
 <img src="./assets/neonline.gif" height="3px" width="100%"/>
